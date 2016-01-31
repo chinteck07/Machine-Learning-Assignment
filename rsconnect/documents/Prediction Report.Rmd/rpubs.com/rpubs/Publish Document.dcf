@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/148628/9228e79c684a45ef8b2d04389238f045
+url: http://rpubs.com/chinteck07/148628
+when: 1454211382.07954

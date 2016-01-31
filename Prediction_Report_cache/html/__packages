@@ -4,3 +4,7 @@ RCurl
 lattice
 ggplot2
 caret
+randomForest
+corrplot
+rattle
+rpart
